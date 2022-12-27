@@ -10,7 +10,8 @@ I started programming 2 years ago My first programming language was Python
 *   ✉️  You can contact me at [tanimolaoluwaseun70@gmail.com](mailto:tanimolaoluwaseun70@gmail.com)
 *   🧠  I'm learning A new programming language (JavaScript & C)
 *   🤝  I'm open to collaborating on Interesting project
-*   ⚡  I'm a backend developer with a year experience<a href="https://www.twitter.com/tanimola_jnr" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm a backend developer with a year experience     
+                  <a href="https://www.twitter.com/tanimola_jnr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/tanimola_jnr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Oluwaseun241" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Oluwaseun241?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
