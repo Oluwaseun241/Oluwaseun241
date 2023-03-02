@@ -1,9 +1,6 @@
 Hi 👋 My name is Oluwaseun
 ==========================
 
-Backend Engineer
------------------
-
 I started programming 2 years ago My first programming language was Python
 
 *   🌍  I'm based in Nigeria
