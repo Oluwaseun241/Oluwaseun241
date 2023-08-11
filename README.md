@@ -6,4 +6,3 @@ Hi 👋 My name is Oluwaseun
 *   ✉️  You can contact me at [tanimolaoluwaseun70@gmail.com](mailto:tanimolaoluwaseun70@gmail.com)
 *   🧠  I'm exploring  new programming languages and frameworks (Golang & FastAPI)
 *   🤝  I'm open to collaborating on Interesting project
-*   ⚡ 
